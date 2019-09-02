@@ -8,3 +8,4 @@ i.e.
 LMLMLMLMM  
 3 3 E  
 MMRMMRMRRM  
+note that the default number of rovers to deploy is 2, it can be changed in Application.java
